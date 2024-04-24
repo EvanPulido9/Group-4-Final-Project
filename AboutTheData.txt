@@ -1,0 +1,52 @@
+Our group found this data in Kaggle. Kaggle is an online community website for data scientists and machine learning enthusiasts 
+and practitioners that allows its users to communicate and exchange ideas, collaborate with one another, and publish and share 
+datasets. Our group decided that this website would be practical and useful in providing a rich and abundant dataset for this 
+project. After downloading the dataset we used Excel to have a starting understanding of what the data conveys. These two applications 
+allowed us to see how the data looks like and what the dataset contains. To do our coding and create graphs and models, we used Anaconda 
+and Jupyter Notebook. We wrote our code in Python and we used many different methods that we implemented to allow for us to create 
+diagrams. The dataset is called "IPL Match Dataset 2008-2023: Complete Record". The dataset is about match records from the Indian 
+Premier League (IPL) and information regarding the match. The dataset contains 1032 rows and 43 columns. The features of the dataset include: 
+
+Season: The season of the IPL match between 2008 and 2023.
+ID: A unique identifier for each match.
+Name: The name of the match.
+Short Name: An abbreviation for the name of the match.
+Description: A summary of the match.
+Home Team: The home team participating in the match.
+Away Team: The away team participating in the match.
+Toss Won: Indicates the team that won the toss prior to the match.
+Decision: The decision made by the team winning the toss (batting or fielding).
+1st Inning Score: The score achieved by the team batting first.
+2nd Inning Score: The score achieved by the team batting second.
+Winner: The winning team of the match.
+Result: The outcome of the match as well as winning margins or wickets.
+Start Date: The start date of the match.
+End Date: The end date of the match.
+Venue ID: A unique identifier for the venue where the match occurred.
+Venue Name: The name of the venue where the match occurred.
+Home Captain: Captain of the home team.
+Away Captain: Captain of the away team.
+Player of the Match (POM): The standout player who received the Player of the Match award.
+Points: The points earned by the teams based on the match result.
+Super Over: Indicates whether a super over was played to determine the winner (Yes/No).
+Home Overs: The number of overs played by the home team.
+Home Runs: The total runs scored by the home team.
+Home Wickets: The number of wickets lost by the home team.
+Home Boundaries: The number of boundaries (four and sixes) hit by the home team.
+Away Overs: The number of overs played by the away team.
+Away Runs: The total runs scored by the away team.
+Away Wickets: The number of wickets lost by the away team.
+Away Boundaries: The number of boundaries (four and sixes) hit by the away team.
+Highlights: Noteworthy highlights/key moments from the match.
+Home Key Batsman: The key batsman for the home team in the match.
+Home Key Bowler: The key bowler for the home team in the match.
+Home Playing XI: The playing XI (eleven) for the home team.
+Away Playing XI: The playing XI (eleven) for the away team.
+Away Key Batsman: The key batsman for the away team in the match.
+Away Key Bowler: The key bowler for the away team in the match.
+Match Days: The number of days the match spanned.
+Umpire 1: The first umpire officiating the match.
+Umpire 2: The second umpire officiating the match.
+TV Umpire: The TV umpire for the match.
+Referee: The match referee overseeing the match.
+Reserve Umpire: The reserve umpire assigned for the match.
