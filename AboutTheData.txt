@@ -1,11 +1,12 @@
 Our group found this data in Kaggle. Kaggle is an online community website for data scientists and machine learning enthusiasts 
 and practitioners that allows its users to communicate and exchange ideas, collaborate with one another, and publish and share 
 datasets. Our group decided that this website would be practical and useful in providing a rich and abundant dataset for this 
-project. After downloading the dataset we used Excel to have a starting understanding of what the data conveys. These two applications 
-allowed us to see how the data looks like and what the dataset contains. To do our coding and create graphs and models, we used Anaconda 
-and Jupyter Notebook. We wrote our code in Python and we used many different methods that we implemented to allow for us to create 
-diagrams. The dataset is called "IPL Match Dataset 2008-2023: Complete Record". The dataset is about match records from the Indian 
-Premier League (IPL) and information regarding the match. The dataset contains 1032 rows and 43 columns. The features of the dataset include: 
+project. After downloading the dataset we used Excel to have a starting understanding of what the data conveys. Excel is a spreadsheet 
+program that organizes and formats data using functions and formulas. These two applications allowed us to see how the data looks 
+like and what the dataset contains. To do our coding and create graphs and models, we used Anaconda and Jupyter Notebook. We wrote 
+our code in Python and we used many different methods that we implemented to allow for us to create diagrams. The dataset is 
+called "IPL Match Dataset 2008-2023: Complete Record". The dataset is about match records from the Indian Premier League (IPL) 
+and information regarding the match. The dataset contains 1032 rows and 43 columns. The features of the dataset include: 
 
 Season: The season of the IPL match between 2008 and 2023.
 ID: A unique identifier for each match.
