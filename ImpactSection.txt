@@ -1,0 +1,17 @@
+The data is about Indian Premier League (IPL) matches. The analyzation of statistics and data of game matches can have 
+both negative and positive impact on the people involved in sports. One positive aspect of analyzing this data is that 
+teams are able to create and potentially implement better game match strategies for future games. By having coaches and 
+sport analysts examine the patterns in the data, they can get a better understanding on the strengths and weaknesses of 
+their team. Coaches can determine what works best and what does not work best for their team. Coaches can also use the 
+data to examine other teams' information to see what their opponenents are doing and arrange a game plan to counteract them. 
+Coaches can use the data to make use of the most practical tactics to utilize and what part of the team players should take a 
+part of. A second positive reason for this data is being able to analyze the performance of the players and the teams they are 
+in. With this data coaches can help out their team by creating additional training tailored to certain members of a team based 
+on their performances. A third positive aspect of analyzing this data is that it can improve the enthusiast and fan experience. 
+The statistical analysis of these games can provide fans with constant updates on the game as well as provide highlights of the 
+games. This data can be used for fans to associate and be engaged with the game and have fun. One negative aspect of this project 
+is incomplete data. Not every specific detail of a game is accessible in the dataset and it is possible for the data to contain 
+errors. Another negative aspect of the data is the misinterpretation of what the data can mean. The data could be misleading and 
+it is best not to jump to conclusions because of looking at statistics is not the only way to interpret the data. PLayer experience 
+should also be taken into consideration alongside with the data to get an exceptional interpretation of the data. Another negative 
+aspect of the project is the overwhelming amount of data which can be difficult for coaches and analysts to examine and look through the data.
